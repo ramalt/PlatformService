@@ -1,6 +1,6 @@
-using PlatformSerivce.Models;
+using PlatformService.Models;
 
-namespace PlatformSerivce.Repositories;
+namespace PlatformService.Repositories;
 
 public interface IPlatformRepository
 {

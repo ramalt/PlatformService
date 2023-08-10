@@ -1,4 +1,4 @@
-namespace PlatformSerivce.Dtos;
+namespace PlatformService.Dtos;
 
 public class ReadPlatformDto
 {

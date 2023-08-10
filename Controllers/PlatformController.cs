@@ -1,10 +1,10 @@
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
-using PlatformSerivce.Dtos;
-using PlatformSerivce.Models;
-using PlatformSerivce.Repositories;
+using PlatformService.Dtos;
+using PlatformService.Models;
+using PlatformService.Repositories;
 
-namespace PlatformSerivce.Controllers;
+namespace PlatformService.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

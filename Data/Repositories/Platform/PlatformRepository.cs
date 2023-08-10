@@ -1,7 +1,7 @@
-using PlatformSerivce.Data;
-using PlatformSerivce.Models;
+using PlatformService.Data;
+using PlatformService.Models;
 
-namespace PlatformSerivce.Repositories;
+namespace PlatformService.Repositories;
 
 public class PlatformRepository : IPlatformRepository
 {
